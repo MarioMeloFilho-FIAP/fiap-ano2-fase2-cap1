@@ -20,6 +20,10 @@
 
 Sistema de diagnóstico automatizado que aplica NLP e Machine Learning para análise de dados clínicos cardiológicos.
 
+## 🎥 Vídeo de Demonstração
+
+> Link do vídeo no YouTube : [https://youtu.be/KSBVl9UmIYo]
+
 ---
 
 ## 📋 Estrutura do Projeto
@@ -187,9 +191,6 @@ Para usar o dataset real de ECG:
 
 ---
 
-## 🎥 Vídeo de Demonstração
-
-> Link do vídeo no YouTube (não listado): _[a ser adicionado]_
 
 ---
 
