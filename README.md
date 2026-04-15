@@ -22,7 +22,7 @@ Sistema de diagnóstico automatizado que aplica NLP e Machine Learning para aná
 
 ## 🎥 Vídeo de Demonstração
 
-> Link do vídeo no YouTube : [https://youtu.be/KSBVl9UmIYo]
+> Link do vídeo no YouTube : https://youtu.be/KSBVl9UmIYo
 
 ---
 
