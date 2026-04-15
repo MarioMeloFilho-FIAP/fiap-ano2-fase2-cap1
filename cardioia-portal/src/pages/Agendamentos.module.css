@@ -1,0 +1,99 @@
+.page { padding: 2rem; max-width: 1000px; margin: 0 auto; }
+.loading { text-align: center; padding: 4rem; color: #666; }
+
+.header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; }
+.header h1 { margin: 0; font-size: 1.8rem; color: #1a1a2e; }
+
+.btnNovo {
+  background: #e74c3c; color: #fff;
+  border: none; padding: 0.6rem 1.25rem;
+  border-radius: 8px; cursor: pointer;
+  font-size: 0.9rem; font-weight: 600;
+  transition: background 0.2s;
+}
+.btnNovo:hover { background: #c0392b; }
+
+.sucesso {
+  background: #d5f5e3; color: #1e8449;
+  padding: 0.75rem 1rem; border-radius: 8px;
+  margin-bottom: 1rem; font-size: 0.9rem;
+}
+
+/* Formulário */
+.form {
+  background: #fff; border-radius: 12px;
+  padding: 1.5rem; margin-bottom: 1.5rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+.form h2 { margin: 0 0 1.25rem; font-size: 1.1rem; color: #1a1a2e; }
+
+.formGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.field { display: flex; flex-direction: column; gap: 0.4rem; }
+.field label { font-size: 0.85rem; font-weight: 600; color: #333; }
+.field input, .field select {
+  padding: 0.65rem 0.9rem;
+  border: 1.5px solid #ddd; border-radius: 8px;
+  font-size: 0.9rem; outline: none;
+  transition: border-color 0.2s;
+}
+.field input:focus, .field select:focus { border-color: #e74c3c; }
+
+.formActions { display: flex; justify-content: flex-end; gap: 0.75rem; margin-top: 1.25rem; }
+
+.btnCancelar {
+  padding: 0.6rem 1.25rem; border: 1.5px solid #ddd;
+  border-radius: 8px; background: #fff; cursor: pointer;
+  font-size: 0.9rem; color: #555; transition: all 0.2s;
+}
+.btnCancelar:hover { border-color: #999; }
+
+.btnSalvar {
+  padding: 0.6rem 1.5rem; background: #e74c3c;
+  border: none; border-radius: 8px; color: #fff;
+  cursor: pointer; font-size: 0.9rem; font-weight: 600;
+  transition: background 0.2s;
+}
+.btnSalvar:hover:not(:disabled) { background: #c0392b; }
+.btnSalvar:disabled { opacity: 0.6; cursor: not-allowed; }
+
+/* Lista */
+.lista { display: flex; flex-direction: column; gap: 0.75rem; }
+
+.item {
+  background: #fff; border-radius: 10px;
+  padding: 1rem 1.25rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  display: flex; align-items: center; gap: 1rem;
+  border-left: 4px solid #ddd;
+  transition: box-shadow 0.2s;
+}
+.item:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.1); }
+.item.confirmado { border-left-color: #2ecc71; }
+.item.pendente   { border-left-color: #f39c12; }
+.item.cancelado  { border-left-color: #e74c3c; opacity: 0.6; }
+
+.itemInfo { flex: 1; display: flex; flex-direction: column; gap: 0.2rem; }
+.itemInfo strong { font-size: 0.95rem; color: #1a1a2e; }
+.itemInfo span   { font-size: 0.82rem; color: #666; }
+
+.itemMeta { display: flex; flex-direction: column; align-items: flex-end; gap: 0.3rem; }
+.dataHora { font-size: 0.82rem; color: #888; }
+
+.badge { font-size: 0.75rem; padding: 2px 10px; border-radius: 10px; font-weight: 600; text-transform: capitalize; }
+.badge_confirmado { background: #d5f5e3; color: #1e8449; }
+.badge_pendente   { background: #fef9e7; color: #b7950b; }
+.badge_cancelado  { background: #fadbd8; color: #922b21; }
+
+.btnCancelarItem {
+  background: transparent; border: 1px solid #ddd;
+  color: #999; width: 28px; height: 28px;
+  border-radius: 50%; cursor: pointer;
+  font-size: 0.8rem; transition: all 0.2s;
+  flex-shrink: 0;
+}
+.btnCancelarItem:hover { background: #fadbd8; border-color: #e74c3c; color: #e74c3c; }

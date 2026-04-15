@@ -1,0 +1,32 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.pytest_cache/
+.hypothesis/
+*.ipynb_checkpoints/
+
+# Node / React
+node_modules/
+cardioia-portal/dist/
+cardioia-portal/.env
+.env
+
+# Dados sensíveis / grandes
+data/mitbih_train.csv
+data/mitbih_test.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,501 @@
+Sintoma1,Sintoma2,Doenca_Associada,Fonte
+dor no peito,falta de ar,Infarto,Literatura Médica
+dor no peito,sudorese,Infarto,Literatura Médica
+dor no peito,náusea,Infarto,Literatura Médica
+dor no peito,dor no braço esquerdo,Infarto,Literatura Médica
+dor no peito,pressão no peito,Angina,Literatura Médica
+pressão no peito,falta de ar,Angina,Literatura Médica
+cansaço constante,inchaço nas pernas,Insuficiência Cardíaca,Literatura Médica
+falta de ar,inchaço nos pés,Insuficiência Cardíaca,Literatura Médica
+dispneia,fadiga,Insuficiência Cardíaca,Literatura Médica
+palpitações,tontura,Arritmia,Literatura Médica
+batimentos irregulares,falta de ar,Arritmia,Literatura Médica
+taquicardia,palpitações,Arritmia,Literatura Médica
+pressão no peito,tontura,Hipertensão,Literatura Médica
+dor de cabeça,visão turva,Hipertensão,Literatura Médica
+tontura,falta de ar,Hipertensão,Literatura Médica
+dor no peito,tontura,Doença Coronariana,Literatura Médica
+cansaço,falta de ar,Doença Coronariana,Literatura Médica
+palpitações,pressão no peito,Fibrilação Atrial,Literatura Médica
+batimentos acelerados,tontura,Taquicardia,Literatura Médica
+fraqueza,tontura,Bradicardia,Literatura Médica
+inchaço nas pernas,falta de ar,Insuficiência Cardíaca Congestiva,Literatura Médica
+dor torácica,dispneia,Síndrome Coronariana Aguda,Literatura Médica
+síncope,palpitações,Arritmia Ventricular,Literatura Médica
+dor no peito,formigamento no braço,Infarto,Literatura Médica
+fadiga extrema,inchaço,Cardiomiopatia,Literatura Médica
+sensação de desmaio,formigamento no braço,Insuficiência Cardíaca,Sintético-CardioIA
+dor no braço esquerdo,formigamento no braço,Angina,Sintético-CardioIA
+visão turva,inchaço nos pés,Angina,Sintético-CardioIA
+batimentos acelerados,dor nas costas,Insuficiência Cardíaca,Sintético-CardioIA
+fraqueza,dor na mandíbula,Angina,Sintético-CardioIA
+falta de ar,aperto no peito,Infarto,Sintético-CardioIA
+dor nas costas,palpitações,Angina,Sintético-CardioIA
+batimentos irregulares,palpitações,Arritmia,Sintético-CardioIA
+batimentos irregulares,cansaço,Insuficiência Cardíaca,Sintético-CardioIA
+dor torácica,batimentos irregulares,Angina,Sintético-CardioIA
+dor nas costas,cansaço,Fibrilação Atrial,Sintético-CardioIA
+batimentos irregulares,tontura,Doença Coronariana,Sintético-CardioIA
+cansaço,dificuldade para respirar,Infarto,Sintético-CardioIA
+dor no peito,formigamento no braço,Angina,Sintético-CardioIA
+dispneia,dor no peito,Fibrilação Atrial,Sintético-CardioIA
+dor torácica,inchaço nas pernas,Infarto,Sintético-CardioIA
+aperto no peito,cansaço extremo,Infarto,Sintético-CardioIA
+sensação de desmaio,inchaço nos pés,Insuficiência Cardíaca,Sintético-CardioIA
+inchaço nas pernas,dificuldade para respirar,Doença Coronariana,Sintético-CardioIA
+batimentos acelerados,dificuldade para respirar,Fibrilação Atrial,Sintético-CardioIA
+dor no peito,sensação de desmaio,Cardiomiopatia,Sintético-CardioIA
+dor no peito,batimentos acelerados,Doença Coronariana,Sintético-CardioIA
+náusea,falta de ar,Arritmia,Sintético-CardioIA
+dispneia,visão turva,Insuficiência Cardíaca,Sintético-CardioIA
+mal-estar,visão turva,Cardiomiopatia,Sintético-CardioIA
+pressão no peito,dificuldade para respirar,Cardiomiopatia,Sintético-CardioIA
+palpitações,batimentos irregulares,Hipertensão,Sintético-CardioIA
+náusea,fraqueza,Hipertensão,Sintético-CardioIA
+aperto no peito,dificuldade para respirar,Fibrilação Atrial,Sintético-CardioIA
+falta de ar,tontura,Infarto,Sintético-CardioIA
+sudorese,dor nas costas,Insuficiência Cardíaca,Sintético-CardioIA
+sudorese,visão turva,Infarto,Sintético-CardioIA
+sudorese,dor no braço esquerdo,Fibrilação Atrial,Sintético-CardioIA
+dor no peito,inchaço nas pernas,Arritmia,Sintético-CardioIA
+dor no braço esquerdo,visão turva,Insuficiência Cardíaca,Sintético-CardioIA
+fadiga,inchaço nos pés,Hipertensão,Sintético-CardioIA
+fraqueza,dispneia,Arritmia,Sintético-CardioIA
+cansaço,dor torácica,Hipertensão,Sintético-CardioIA
+visão turva,inchaço nas pernas,Insuficiência Cardíaca,Sintético-CardioIA
+aperto no peito,tontura,Doença Coronariana,Sintético-CardioIA
+tontura,dor nas costas,Hipertensão,Sintético-CardioIA
+dor no peito,fraqueza,Doença Coronariana,Sintético-CardioIA
+náusea,cansaço extremo,Cardiomiopatia,Sintético-CardioIA
+formigamento no braço,batimentos acelerados,Doença Coronariana,Sintético-CardioIA
+dor no braço esquerdo,sensação de desmaio,Insuficiência Cardíaca,Sintético-CardioIA
+batimentos irregulares,tontura,Angina,Sintético-CardioIA
+sudorese,visão turva,Angina,Sintético-CardioIA
+dor torácica,dispneia,Arritmia,Sintético-CardioIA
+inchaço nos pés,cansaço,Infarto,Sintético-CardioIA
+sensação de desmaio,visão turva,Angina,Sintético-CardioIA
+formigamento no braço,falta de ar,Hipertensão,Sintético-CardioIA
+pressão no peito,dor no braço esquerdo,Cardiomiopatia,Sintético-CardioIA
+dor torácica,visão turva,Hipertensão,Sintético-CardioIA
+dor nas costas,náusea,Angina,Sintético-CardioIA
+formigamento no braço,inchaço nas pernas,Cardiomiopatia,Sintético-CardioIA
+batimentos acelerados,dor nas costas,Doença Coronariana,Sintético-CardioIA
+náusea,dor torácica,Insuficiência Cardíaca,Sintético-CardioIA
+dor torácica,cansaço extremo,Doença Coronariana,Sintético-CardioIA
+náusea,inchaço nas pernas,Doença Coronariana,Sintético-CardioIA
+inchaço nos pés,dor torácica,Infarto,Sintético-CardioIA
+sudorese,fadiga,Doença Coronariana,Sintético-CardioIA
+fraqueza,falta de ar,Insuficiência Cardíaca,Sintético-CardioIA
+visão turva,dor no peito,Infarto,Sintético-CardioIA
+pressão no peito,formigamento no braço,Hipertensão,Sintético-CardioIA
+fadiga,inchaço nas pernas,Angina,Sintético-CardioIA
+dispneia,dor no braço esquerdo,Insuficiência Cardíaca,Sintético-CardioIA
+dor torácica,dor nas costas,Hipertensão,Sintético-CardioIA
+mal-estar,sudorese,Arritmia,Sintético-CardioIA
+dor na mandíbula,inchaço nos pés,Cardiomiopatia,Sintético-CardioIA
+cansaço extremo,mal-estar,Hipertensão,Sintético-CardioIA
+inchaço nos pés,inchaço nas pernas,Insuficiência Cardíaca,Sintético-CardioIA
+palpitações,batimentos irregulares,Cardiomiopatia,Sintético-CardioIA
+fadiga,cansaço extremo,Insuficiência Cardíaca,Sintético-CardioIA
+dificuldade para respirar,dor no braço esquerdo,Hipertensão,Sintético-CardioIA
+sensação de desmaio,dispneia,Insuficiência Cardíaca,Sintético-CardioIA
+dificuldade para respirar,inchaço nas pernas,Insuficiência Cardíaca,Sintético-CardioIA
+dor torácica,aperto no peito,Cardiomiopatia,Sintético-CardioIA
+mal-estar,cansaço extremo,Insuficiência Cardíaca,Sintético-CardioIA
+dor torácica,batimentos acelerados,Angina,Sintético-CardioIA
+dor na mandíbula,batimentos irregulares,Angina,Sintético-CardioIA
+dor no braço esquerdo,mal-estar,Infarto,Sintético-CardioIA
+falta de ar,dificuldade para respirar,Doença Coronariana,Sintético-CardioIA
+sensação de desmaio,dor no braço esquerdo,Doença Coronariana,Sintético-CardioIA
+cansaço,dor nas costas,Infarto,Sintético-CardioIA
+mal-estar,dor no braço esquerdo,Fibrilação Atrial,Sintético-CardioIA
+dificuldade para respirar,dor no braço esquerdo,Insuficiência Cardíaca,Sintético-CardioIA
+náusea,visão turva,Doença Coronariana,Sintético-CardioIA
+dor no braço esquerdo,palpitações,Insuficiência Cardíaca,Sintético-CardioIA
+pressão no peito,mal-estar,Doença Coronariana,Sintético-CardioIA
+dispneia,mal-estar,Infarto,Sintético-CardioIA
+fadiga,visão turva,Insuficiência Cardíaca,Sintético-CardioIA
+formigamento no braço,fadiga,Arritmia,Sintético-CardioIA
+batimentos irregulares,fraqueza,Insuficiência Cardíaca,Sintético-CardioIA
+inchaço nas pernas,fraqueza,Arritmia,Sintético-CardioIA
+dor torácica,formigamento no braço,Arritmia,Sintético-CardioIA
+fadiga,dor nas costas,Fibrilação Atrial,Sintético-CardioIA
+sudorese,fadiga,Arritmia,Sintético-CardioIA
+pressão no peito,falta de ar,Angina,Sintético-CardioIA
+aperto no peito,batimentos acelerados,Infarto,Sintético-CardioIA
+dispneia,dor no peito,Hipertensão,Sintético-CardioIA
+mal-estar,dor no braço esquerdo,Hipertensão,Sintético-CardioIA
+náusea,dor nas costas,Arritmia,Sintético-CardioIA
+aperto no peito,sudorese,Cardiomiopatia,Sintético-CardioIA
+formigamento no braço,inchaço nas pernas,Doença Coronariana,Sintético-CardioIA
+dor no peito,batimentos acelerados,Arritmia,Sintético-CardioIA
+formigamento no braço,dor nas costas,Infarto,Sintético-CardioIA
+dor no peito,batimentos irregulares,Fibrilação Atrial,Sintético-CardioIA
+dificuldade para respirar,dor no braço esquerdo,Fibrilação Atrial,Sintético-CardioIA
+dor no braço esquerdo,náusea,Angina,Sintético-CardioIA
+fadiga,batimentos acelerados,Infarto,Sintético-CardioIA
+batimentos irregulares,formigamento no braço,Hipertensão,Sintético-CardioIA
+batimentos acelerados,cansaço,Hipertensão,Sintético-CardioIA
+fadiga,falta de ar,Doença Coronariana,Sintético-CardioIA
+fadiga,tontura,Angina,Sintético-CardioIA
+dispneia,inchaço nos pés,Fibrilação Atrial,Sintético-CardioIA
+aperto no peito,palpitações,Insuficiência Cardíaca,Sintético-CardioIA
+sudorese,tontura,Arritmia,Sintético-CardioIA
+fadiga,sensação de desmaio,Fibrilação Atrial,Sintético-CardioIA
+dor nas costas,sudorese,Arritmia,Sintético-CardioIA
+náusea,inchaço nos pés,Angina,Sintético-CardioIA
+dor nas costas,aperto no peito,Angina,Sintético-CardioIA
+dispneia,fadiga,Hipertensão,Sintético-CardioIA
+dor no braço esquerdo,formigamento no braço,Hipertensão,Sintético-CardioIA
+cansaço extremo,fraqueza,Fibrilação Atrial,Sintético-CardioIA
+batimentos irregulares,dor torácica,Arritmia,Sintético-CardioIA
+dor na mandíbula,inchaço nas pernas,Fibrilação Atrial,Sintético-CardioIA
+palpitações,batimentos irregulares,Fibrilação Atrial,Sintético-CardioIA
+náusea,dor no peito,Cardiomiopatia,Sintético-CardioIA
+náusea,cansaço extremo,Fibrilação Atrial,Sintético-CardioIA
+dificuldade para respirar,mal-estar,Infarto,Sintético-CardioIA
+aperto no peito,sensação de desmaio,Fibrilação Atrial,Sintético-CardioIA
+inchaço nos pés,mal-estar,Infarto,Sintético-CardioIA
+mal-estar,aperto no peito,Cardiomiopatia,Sintético-CardioIA
+dispneia,sudorese,Doença Coronariana,Sintético-CardioIA
+dor na mandíbula,tontura,Infarto,Sintético-CardioIA
+sensação de desmaio,fadiga,Insuficiência Cardíaca,Sintético-CardioIA
+batimentos irregulares,visão turva,Infarto,Sintético-CardioIA
+dor no peito,palpitações,Doença Coronariana,Sintético-CardioIA
+sensação de desmaio,dor nas costas,Angina,Sintético-CardioIA
+batimentos acelerados,formigamento no braço,Insuficiência Cardíaca,Sintético-CardioIA
+dor no peito,falta de ar,Arritmia,Sintético-CardioIA
+dispneia,batimentos irregulares,Arritmia,Sintético-CardioIA
+inchaço nas pernas,aperto no peito,Infarto,Sintético-CardioIA
+tontura,dor nas costas,Infarto,Sintético-CardioIA
+fadiga,dor no peito,Cardiomiopatia,Sintético-CardioIA
+palpitações,fadiga,Cardiomiopatia,Sintético-CardioIA
+batimentos acelerados,falta de ar,Infarto,Sintético-CardioIA
+dificuldade para respirar,pressão no peito,Infarto,Sintético-CardioIA
+sensação de desmaio,falta de ar,Fibrilação Atrial,Sintético-CardioIA
+náusea,aperto no peito,Hipertensão,Sintético-CardioIA
+tontura,dificuldade para respirar,Angina,Sintético-CardioIA
+fadiga,sensação de desmaio,Fibrilação Atrial,Sintético-CardioIA
+dor na mandíbula,pressão no peito,Doença Coronariana,Sintético-CardioIA
+falta de ar,batimentos acelerados,Hipertensão,Sintético-CardioIA
+tontura,dor no peito,Cardiomiopatia,Sintético-CardioIA
+sudorese,batimentos acelerados,Cardiomiopatia,Sintético-CardioIA
+tontura,dor no braço esquerdo,Hipertensão,Sintético-CardioIA
+cansaço extremo,pressão no peito,Fibrilação Atrial,Sintético-CardioIA
+dor torácica,fraqueza,Fibrilação Atrial,Sintético-CardioIA
+dor nas costas,cansaço extremo,Infarto,Sintético-CardioIA
+cansaço,mal-estar,Fibrilação Atrial,Sintético-CardioIA
+cansaço,batimentos acelerados,Arritmia,Sintético-CardioIA
+tontura,dor torácica,Arritmia,Sintético-CardioIA
+inchaço nos pés,tontura,Doença Coronariana,Sintético-CardioIA
+batimentos acelerados,batimentos irregulares,Hipertensão,Sintético-CardioIA
+dor no braço esquerdo,palpitações,Doença Coronariana,Sintético-CardioIA
+batimentos acelerados,dor no peito,Arritmia,Sintético-CardioIA
+dificuldade para respirar,aperto no peito,Fibrilação Atrial,Sintético-CardioIA
+batimentos acelerados,falta de ar,Doença Coronariana,Sintético-CardioIA
+dor torácica,cansaço,Insuficiência Cardíaca,Sintético-CardioIA
+aperto no peito,falta de ar,Cardiomiopatia,Sintético-CardioIA
+sensação de desmaio,dispneia,Infarto,Sintético-CardioIA
+náusea,cansaço extremo,Angina,Sintético-CardioIA
+náusea,mal-estar,Hipertensão,Sintético-CardioIA
+inchaço nos pés,dor torácica,Doença Coronariana,Sintético-CardioIA
+fraqueza,dor torácica,Insuficiência Cardíaca,Sintético-CardioIA
+palpitações,inchaço nas pernas,Insuficiência Cardíaca,Sintético-CardioIA
+aperto no peito,dor no braço esquerdo,Cardiomiopatia,Sintético-CardioIA
+falta de ar,formigamento no braço,Angina,Sintético-CardioIA
+fadiga,dispneia,Doença Coronariana,Sintético-CardioIA
+falta de ar,dificuldade para respirar,Angina,Sintético-CardioIA
+dor torácica,sudorese,Doença Coronariana,Sintético-CardioIA
+batimentos acelerados,dor no peito,Cardiomiopatia,Sintético-CardioIA
+sudorese,tontura,Hipertensão,Sintético-CardioIA
+aperto no peito,dor nas costas,Angina,Sintético-CardioIA
+dificuldade para respirar,falta de ar,Arritmia,Sintético-CardioIA
+mal-estar,náusea,Cardiomiopatia,Sintético-CardioIA
+dor no peito,dor no braço esquerdo,Angina,Sintético-CardioIA
+dor no braço esquerdo,visão turva,Cardiomiopatia,Sintético-CardioIA
+formigamento no braço,inchaço nas pernas,Doença Coronariana,Sintético-CardioIA
+falta de ar,dor torácica,Infarto,Sintético-CardioIA
+cansaço,dispneia,Insuficiência Cardíaca,Sintético-CardioIA
+sensação de desmaio,batimentos acelerados,Fibrilação Atrial,Sintético-CardioIA
+fraqueza,visão turva,Hipertensão,Sintético-CardioIA
+fraqueza,sudorese,Infarto,Sintético-CardioIA
+tontura,fraqueza,Angina,Sintético-CardioIA
+batimentos irregulares,dor no braço esquerdo,Doença Coronariana,Sintético-CardioIA
+cansaço extremo,pressão no peito,Fibrilação Atrial,Sintético-CardioIA
+náusea,dificuldade para respirar,Insuficiência Cardíaca,Sintético-CardioIA
+dor nas costas,mal-estar,Cardiomiopatia,Sintético-CardioIA
+aperto no peito,cansaço extremo,Arritmia,Sintético-CardioIA
+dor no braço esquerdo,inchaço nas pernas,Hipertensão,Sintético-CardioIA
+palpitações,náusea,Doença Coronariana,Sintético-CardioIA
+inchaço nos pés,batimentos irregulares,Infarto,Sintético-CardioIA
+inchaço nos pés,aperto no peito,Infarto,Sintético-CardioIA
+palpitações,dor no peito,Hipertensão,Sintético-CardioIA
+palpitações,dor no braço esquerdo,Insuficiência Cardíaca,Sintético-CardioIA
+aperto no peito,fraqueza,Infarto,Sintético-CardioIA
+sudorese,batimentos acelerados,Hipertensão,Sintético-CardioIA
+sensação de desmaio,aperto no peito,Insuficiência Cardíaca,Sintético-CardioIA
+dor no braço esquerdo,mal-estar,Doença Coronariana,Sintético-CardioIA
+dor no braço esquerdo,cansaço,Hipertensão,Sintético-CardioIA
+cansaço,sensação de desmaio,Angina,Sintético-CardioIA
+dificuldade para respirar,dor no peito,Insuficiência Cardíaca,Sintético-CardioIA
+batimentos irregulares,dor torácica,Insuficiência Cardíaca,Sintético-CardioIA
+dispneia,dificuldade para respirar,Infarto,Sintético-CardioIA
+náusea,formigamento no braço,Doença Coronariana,Sintético-CardioIA
+cansaço,dor no peito,Doença Coronariana,Sintético-CardioIA
+tontura,dor no peito,Insuficiência Cardíaca,Sintético-CardioIA
+fraqueza,cansaço extremo,Doença Coronariana,Sintético-CardioIA
+visão turva,náusea,Insuficiência Cardíaca,Sintético-CardioIA
+batimentos irregulares,náusea,Doença Coronariana,Sintético-CardioIA
+tontura,dificuldade para respirar,Angina,Sintético-CardioIA
+batimentos irregulares,visão turva,Fibrilação Atrial,Sintético-CardioIA
+formigamento no braço,visão turva,Infarto,Sintético-CardioIA
+náusea,sensação de desmaio,Fibrilação Atrial,Sintético-CardioIA
+dor no braço esquerdo,palpitações,Fibrilação Atrial,Sintético-CardioIA
+dor na mandíbula,tontura,Arritmia,Sintético-CardioIA
+falta de ar,fadiga,Arritmia,Sintético-CardioIA
+batimentos acelerados,dificuldade para respirar,Angina,Sintético-CardioIA
+batimentos acelerados,tontura,Cardiomiopatia,Sintético-CardioIA
+inchaço nos pés,fadiga,Arritmia,Sintético-CardioIA
+cansaço,falta de ar,Hipertensão,Sintético-CardioIA
+pressão no peito,fadiga,Fibrilação Atrial,Sintético-CardioIA
+dificuldade para respirar,batimentos irregulares,Insuficiência Cardíaca,Sintético-CardioIA
+batimentos irregulares,visão turva,Hipertensão,Sintético-CardioIA
+dor nas costas,náusea,Doença Coronariana,Sintético-CardioIA
+dificuldade para respirar,palpitações,Angina,Sintético-CardioIA
+náusea,sudorese,Infarto,Sintético-CardioIA
+dispneia,dor no peito,Fibrilação Atrial,Sintético-CardioIA
+sensação de desmaio,fraqueza,Angina,Sintético-CardioIA
+sensação de desmaio,sudorese,Fibrilação Atrial,Sintético-CardioIA
+visão turva,dor no peito,Infarto,Sintético-CardioIA
+palpitações,fraqueza,Arritmia,Sintético-CardioIA
+tontura,dor no braço esquerdo,Cardiomiopatia,Sintético-CardioIA
+dor no peito,tontura,Hipertensão,Sintético-CardioIA
+visão turva,dificuldade para respirar,Fibrilação Atrial,Sintético-CardioIA
+cansaço extremo,dor torácica,Infarto,Sintético-CardioIA
+tontura,cansaço extremo,Insuficiência Cardíaca,Sintético-CardioIA
+inchaço nos pés,cansaço,Insuficiência Cardíaca,Sintético-CardioIA
+dor nas costas,formigamento no braço,Angina,Sintético-CardioIA
+aperto no peito,formigamento no braço,Cardiomiopatia,Sintético-CardioIA
+batimentos irregulares,palpitações,Doença Coronariana,Sintético-CardioIA
+fraqueza,formigamento no braço,Angina,Sintético-CardioIA
+dor na mandíbula,sudorese,Insuficiência Cardíaca,Sintético-CardioIA
+visão turva,dificuldade para respirar,Hipertensão,Sintético-CardioIA
+cansaço,dor torácica,Doença Coronariana,Sintético-CardioIA
+mal-estar,dor no peito,Cardiomiopatia,Sintético-CardioIA
+visão turva,mal-estar,Angina,Sintético-CardioIA
+inchaço nos pés,aperto no peito,Infarto,Sintético-CardioIA
+sensação de desmaio,fadiga,Doença Coronariana,Sintético-CardioIA
+dispneia,palpitações,Angina,Sintético-CardioIA
+dor nas costas,dor na mandíbula,Fibrilação Atrial,Sintético-CardioIA
+dor no peito,dor torácica,Angina,Sintético-CardioIA
+aperto no peito,cansaço extremo,Insuficiência Cardíaca,Sintético-CardioIA
+dor no peito,aperto no peito,Infarto,Sintético-CardioIA
+pressão no peito,cansaço,Arritmia,Sintético-CardioIA
+sensação de desmaio,dispneia,Insuficiência Cardíaca,Sintético-CardioIA
+falta de ar,dispneia,Arritmia,Sintético-CardioIA
+pressão no peito,mal-estar,Fibrilação Atrial,Sintético-CardioIA
+dor torácica,dor na mandíbula,Fibrilação Atrial,Sintético-CardioIA
+falta de ar,dor torácica,Infarto,Sintético-CardioIA
+náusea,palpitações,Hipertensão,Sintético-CardioIA
+falta de ar,cansaço extremo,Hipertensão,Sintético-CardioIA
+pressão no peito,dificuldade para respirar,Doença Coronariana,Sintético-CardioIA
+tontura,inchaço nas pernas,Hipertensão,Sintético-CardioIA
+palpitações,inchaço nos pés,Doença Coronariana,Sintético-CardioIA
+dor torácica,tontura,Angina,Sintético-CardioIA
+sensação de desmaio,falta de ar,Infarto,Sintético-CardioIA
+mal-estar,náusea,Infarto,Sintético-CardioIA
+aperto no peito,batimentos irregulares,Infarto,Sintético-CardioIA
+formigamento no braço,fraqueza,Hipertensão,Sintético-CardioIA
+batimentos irregulares,palpitações,Cardiomiopatia,Sintético-CardioIA
+dor nas costas,aperto no peito,Cardiomiopatia,Sintético-CardioIA
+falta de ar,dispneia,Fibrilação Atrial,Sintético-CardioIA
+aperto no peito,dificuldade para respirar,Insuficiência Cardíaca,Sintético-CardioIA
+visão turva,cansaço,Infarto,Sintético-CardioIA
+dor na mandíbula,sensação de desmaio,Cardiomiopatia,Sintético-CardioIA
+inchaço nos pés,visão turva,Infarto,Sintético-CardioIA
+batimentos acelerados,palpitações,Angina,Sintético-CardioIA
+pressão no peito,dor no peito,Doença Coronariana,Sintético-CardioIA
+palpitações,falta de ar,Angina,Sintético-CardioIA
+dor torácica,inchaço nos pés,Doença Coronariana,Sintético-CardioIA
+pressão no peito,cansaço extremo,Insuficiência Cardíaca,Sintético-CardioIA
+dor no braço esquerdo,fadiga,Arritmia,Sintético-CardioIA
+dor torácica,dor no braço esquerdo,Fibrilação Atrial,Sintético-CardioIA
+pressão no peito,dispneia,Angina,Sintético-CardioIA
+sudorese,dor no braço esquerdo,Hipertensão,Sintético-CardioIA
+dispneia,formigamento no braço,Doença Coronariana,Sintético-CardioIA
+batimentos acelerados,dor nas costas,Fibrilação Atrial,Sintético-CardioIA
+dispneia,dor no peito,Doença Coronariana,Sintético-CardioIA
+tontura,aperto no peito,Angina,Sintético-CardioIA
+aperto no peito,formigamento no braço,Infarto,Sintético-CardioIA
+falta de ar,mal-estar,Arritmia,Sintético-CardioIA
+mal-estar,cansaço,Angina,Sintético-CardioIA
+dificuldade para respirar,cansaço,Doença Coronariana,Sintético-CardioIA
+inchaço nos pés,falta de ar,Insuficiência Cardíaca,Sintético-CardioIA
+aperto no peito,sudorese,Infarto,Sintético-CardioIA
+batimentos irregulares,visão turva,Insuficiência Cardíaca,Sintético-CardioIA
+dor no braço esquerdo,dor na mandíbula,Insuficiência Cardíaca,Sintético-CardioIA
+batimentos acelerados,dor nas costas,Angina,Sintético-CardioIA
+inchaço nos pés,fraqueza,Hipertensão,Sintético-CardioIA
+visão turva,mal-estar,Hipertensão,Sintético-CardioIA
+dificuldade para respirar,dor torácica,Insuficiência Cardíaca,Sintético-CardioIA
+dor torácica,inchaço nas pernas,Insuficiência Cardíaca,Sintético-CardioIA
+cansaço extremo,dor na mandíbula,Hipertensão,Sintético-CardioIA
+visão turva,dor no braço esquerdo,Arritmia,Sintético-CardioIA
+cansaço extremo,dor no peito,Infarto,Sintético-CardioIA
+náusea,tontura,Arritmia,Sintético-CardioIA
+cansaço,aperto no peito,Insuficiência Cardíaca,Sintético-CardioIA
+sudorese,fraqueza,Hipertensão,Sintético-CardioIA
+cansaço,formigamento no braço,Infarto,Sintético-CardioIA
+batimentos irregulares,fadiga,Hipertensão,Sintético-CardioIA
+náusea,dispneia,Arritmia,Sintético-CardioIA
+sudorese,fraqueza,Infarto,Sintético-CardioIA
+fadiga,batimentos irregulares,Fibrilação Atrial,Sintético-CardioIA
+cansaço extremo,mal-estar,Doença Coronariana,Sintético-CardioIA
+dor nas costas,pressão no peito,Arritmia,Sintético-CardioIA
+inchaço nos pés,dor torácica,Arritmia,Sintético-CardioIA
+palpitações,dor na mandíbula,Cardiomiopatia,Sintético-CardioIA
+dor no braço esquerdo,palpitações,Arritmia,Sintético-CardioIA
+batimentos acelerados,batimentos irregulares,Arritmia,Sintético-CardioIA
+sudorese,batimentos acelerados,Infarto,Sintético-CardioIA
+cansaço,dor torácica,Angina,Sintético-CardioIA
+dispneia,batimentos acelerados,Hipertensão,Sintético-CardioIA
+falta de ar,batimentos irregulares,Angina,Sintético-CardioIA
+palpitações,inchaço nas pernas,Fibrilação Atrial,Sintético-CardioIA
+formigamento no braço,dificuldade para respirar,Fibrilação Atrial,Sintético-CardioIA
+dor nas costas,cansaço extremo,Infarto,Sintético-CardioIA
+dor torácica,visão turva,Cardiomiopatia,Sintético-CardioIA
+náusea,dificuldade para respirar,Angina,Sintético-CardioIA
+batimentos acelerados,formigamento no braço,Insuficiência Cardíaca,Sintético-CardioIA
+dificuldade para respirar,inchaço nas pernas,Infarto,Sintético-CardioIA
+dor no braço esquerdo,visão turva,Angina,Sintético-CardioIA
+dor no braço esquerdo,visão turva,Doença Coronariana,Sintético-CardioIA
+dor na mandíbula,fadiga,Fibrilação Atrial,Sintético-CardioIA
+dispneia,cansaço extremo,Hipertensão,Sintético-CardioIA
+cansaço,náusea,Angina,Sintético-CardioIA
+cansaço extremo,dor nas costas,Hipertensão,Sintético-CardioIA
+dor torácica,visão turva,Infarto,Sintético-CardioIA
+falta de ar,visão turva,Arritmia,Sintético-CardioIA
+dor torácica,cansaço,Infarto,Sintético-CardioIA
+formigamento no braço,cansaço extremo,Cardiomiopatia,Sintético-CardioIA
+sudorese,visão turva,Doença Coronariana,Sintético-CardioIA
+formigamento no braço,sensação de desmaio,Arritmia,Sintético-CardioIA
+pressão no peito,dificuldade para respirar,Infarto,Sintético-CardioIA
+dificuldade para respirar,pressão no peito,Doença Coronariana,Sintético-CardioIA
+náusea,sudorese,Fibrilação Atrial,Sintético-CardioIA
+dor nas costas,formigamento no braço,Cardiomiopatia,Sintético-CardioIA
+batimentos irregulares,inchaço nos pés,Infarto,Sintético-CardioIA
+batimentos irregulares,dor no peito,Doença Coronariana,Sintético-CardioIA
+dor nas costas,inchaço nas pernas,Doença Coronariana,Sintético-CardioIA
+fadiga,dor no peito,Angina,Sintético-CardioIA
+dispneia,dor no peito,Doença Coronariana,Sintético-CardioIA
+cansaço extremo,falta de ar,Hipertensão,Sintético-CardioIA
+dificuldade para respirar,falta de ar,Angina,Sintético-CardioIA
+dor na mandíbula,tontura,Doença Coronariana,Sintético-CardioIA
+mal-estar,dor torácica,Cardiomiopatia,Sintético-CardioIA
+fadiga,palpitações,Angina,Sintético-CardioIA
+dispneia,dor nas costas,Cardiomiopatia,Sintético-CardioIA
+dificuldade para respirar,dispneia,Cardiomiopatia,Sintético-CardioIA
+dispneia,batimentos acelerados,Cardiomiopatia,Sintético-CardioIA
+dor no braço esquerdo,tontura,Insuficiência Cardíaca,Sintético-CardioIA
+dor no braço esquerdo,mal-estar,Infarto,Sintético-CardioIA
+aperto no peito,sensação de desmaio,Infarto,Sintético-CardioIA
+formigamento no braço,dor na mandíbula,Infarto,Sintético-CardioIA
+inchaço nos pés,sudorese,Insuficiência Cardíaca,Sintético-CardioIA
+pressão no peito,dor torácica,Arritmia,Sintético-CardioIA
+dor torácica,inchaço nos pés,Doença Coronariana,Sintético-CardioIA
+fraqueza,náusea,Fibrilação Atrial,Sintético-CardioIA
+tontura,batimentos acelerados,Infarto,Sintético-CardioIA
+fraqueza,sensação de desmaio,Hipertensão,Sintético-CardioIA
+fraqueza,mal-estar,Cardiomiopatia,Sintético-CardioIA
+cansaço,dor no braço esquerdo,Hipertensão,Sintético-CardioIA
+dispneia,pressão no peito,Fibrilação Atrial,Sintético-CardioIA
+sudorese,visão turva,Arritmia,Sintético-CardioIA
+visão turva,mal-estar,Arritmia,Sintético-CardioIA
+aperto no peito,batimentos irregulares,Infarto,Sintético-CardioIA
+dor no braço esquerdo,visão turva,Arritmia,Sintético-CardioIA
+visão turva,dor torácica,Hipertensão,Sintético-CardioIA
+cansaço,dor torácica,Doença Coronariana,Sintético-CardioIA
+náusea,mal-estar,Doença Coronariana,Sintético-CardioIA
+palpitações,dor na mandíbula,Doença Coronariana,Sintético-CardioIA
+formigamento no braço,pressão no peito,Infarto,Sintético-CardioIA
+cansaço,batimentos acelerados,Doença Coronariana,Sintético-CardioIA
+falta de ar,palpitações,Insuficiência Cardíaca,Sintético-CardioIA
+dor no peito,dor no braço esquerdo,Angina,Sintético-CardioIA
+sensação de desmaio,pressão no peito,Angina,Sintético-CardioIA
+batimentos irregulares,inchaço nos pés,Cardiomiopatia,Sintético-CardioIA
+dor torácica,dor no braço esquerdo,Fibrilação Atrial,Sintético-CardioIA
+falta de ar,dor no peito,Hipertensão,Sintético-CardioIA
+mal-estar,inchaço nas pernas,Infarto,Sintético-CardioIA
+cansaço,tontura,Hipertensão,Sintético-CardioIA
+inchaço nos pés,fraqueza,Doença Coronariana,Sintético-CardioIA
+dor no braço esquerdo,palpitações,Doença Coronariana,Sintético-CardioIA
+náusea,cansaço,Angina,Sintético-CardioIA
+dor na mandíbula,cansaço extremo,Fibrilação Atrial,Sintético-CardioIA
+náusea,cansaço extremo,Arritmia,Sintético-CardioIA
+aperto no peito,inchaço nas pernas,Arritmia,Sintético-CardioIA
+falta de ar,sudorese,Infarto,Sintético-CardioIA
+dificuldade para respirar,tontura,Cardiomiopatia,Sintético-CardioIA
+náusea,pressão no peito,Fibrilação Atrial,Sintético-CardioIA
+náusea,dispneia,Infarto,Sintético-CardioIA
+batimentos acelerados,náusea,Insuficiência Cardíaca,Sintético-CardioIA
+dispneia,dor na mandíbula,Arritmia,Sintético-CardioIA
+inchaço nos pés,pressão no peito,Infarto,Sintético-CardioIA
+cansaço extremo,dor nas costas,Doença Coronariana,Sintético-CardioIA
+fraqueza,aperto no peito,Fibrilação Atrial,Sintético-CardioIA
+palpitações,dor no peito,Infarto,Sintético-CardioIA
+batimentos acelerados,tontura,Infarto,Sintético-CardioIA
+batimentos irregulares,visão turva,Cardiomiopatia,Sintético-CardioIA
+dor nas costas,dor no peito,Fibrilação Atrial,Sintético-CardioIA
+dor na mandíbula,cansaço extremo,Doença Coronariana,Sintético-CardioIA
+náusea,mal-estar,Fibrilação Atrial,Sintético-CardioIA
+tontura,dor nas costas,Angina,Sintético-CardioIA
+dor torácica,fraqueza,Angina,Sintético-CardioIA
+pressão no peito,formigamento no braço,Infarto,Sintético-CardioIA
+sudorese,dificuldade para respirar,Fibrilação Atrial,Sintético-CardioIA
+visão turva,inchaço nas pernas,Infarto,Sintético-CardioIA
+formigamento no braço,sudorese,Doença Coronariana,Sintético-CardioIA
+fadiga,mal-estar,Angina,Sintético-CardioIA
+visão turva,cansaço,Doença Coronariana,Sintético-CardioIA
+cansaço extremo,falta de ar,Fibrilação Atrial,Sintético-CardioIA
+cansaço extremo,inchaço nas pernas,Arritmia,Sintético-CardioIA
+mal-estar,sensação de desmaio,Fibrilação Atrial,Sintético-CardioIA
+náusea,inchaço nas pernas,Angina,Sintético-CardioIA
+cansaço,visão turva,Cardiomiopatia,Sintético-CardioIA
+dispneia,dor torácica,Doença Coronariana,Sintético-CardioIA
+dor no braço esquerdo,cansaço extremo,Fibrilação Atrial,Sintético-CardioIA
+cansaço,palpitações,Infarto,Sintético-CardioIA
+mal-estar,pressão no peito,Arritmia,Sintético-CardioIA
+dor no braço esquerdo,dor torácica,Fibrilação Atrial,Sintético-CardioIA
+dor na mandíbula,pressão no peito,Angina,Sintético-CardioIA
+visão turva,cansaço,Angina,Sintético-CardioIA
+dor no peito,dificuldade para respirar,Angina,Sintético-CardioIA
+falta de ar,batimentos acelerados,Hipertensão,Sintético-CardioIA
+dor no peito,inchaço nos pés,Arritmia,Sintético-CardioIA
+falta de ar,náusea,Infarto,Sintético-CardioIA
+dor no peito,falta de ar,Angina,Sintético-CardioIA
+tontura,palpitações,Doença Coronariana,Sintético-CardioIA
+dificuldade para respirar,dor no peito,Insuficiência Cardíaca,Sintético-CardioIA
+visão turva,inchaço nos pés,Cardiomiopatia,Sintético-CardioIA
+formigamento no braço,aperto no peito,Fibrilação Atrial,Sintético-CardioIA
+sudorese,dor torácica,Doença Coronariana,Sintético-CardioIA
+fraqueza,dor no braço esquerdo,Doença Coronariana,Sintético-CardioIA
+batimentos acelerados,fadiga,Insuficiência Cardíaca,Sintético-CardioIA
+dor no peito,batimentos acelerados,Infarto,Sintético-CardioIA
+palpitações,visão turva,Arritmia,Sintético-CardioIA
+dificuldade para respirar,aperto no peito,Doença Coronariana,Sintético-CardioIA
+dor torácica,dispneia,Arritmia,Sintético-CardioIA
+náusea,mal-estar,Infarto,Sintético-CardioIA
+pressão no peito,tontura,Infarto,Sintético-CardioIA
+visão turva,formigamento no braço,Insuficiência Cardíaca,Sintético-CardioIA
+dificuldade para respirar,fadiga,Infarto,Sintético-CardioIA
+dificuldade para respirar,falta de ar,Doença Coronariana,Sintético-CardioIA
+fraqueza,sensação de desmaio,Infarto,Sintético-CardioIA
+tontura,palpitações,Insuficiência Cardíaca,Sintético-CardioIA
+sensação de desmaio,fadiga,Fibrilação Atrial,Sintético-CardioIA
+dor no braço esquerdo,batimentos irregulares,Arritmia,Sintético-CardioIA
+fadiga,sudorese,Doença Coronariana,Sintético-CardioIA
+sudorese,mal-estar,Doença Coronariana,Sintético-CardioIA
+dispneia,inchaço nas pernas,Insuficiência Cardíaca,Sintético-CardioIA
+sudorese,dispneia,Angina,Sintético-CardioIA
+sensação de desmaio,batimentos acelerados,Fibrilação Atrial,Sintético-CardioIA
+tontura,inchaço nas pernas,Cardiomiopatia,Sintético-CardioIA

@@ -1,0 +1,74 @@
+.page { padding: 2rem; max-width: 1200px; margin: 0 auto; }
+.loading { text-align: center; padding: 4rem; color: #666; }
+
+.header { display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem; }
+.header h1 { margin: 0; font-size: 1.8rem; color: #1a1a2e; }
+.total { background: #e9ecef; color: #555; padding: 4px 12px; border-radius: 12px; font-size: 0.85rem; }
+
+.filtros { display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap; align-items: center; }
+
+.busca {
+  flex: 1;
+  min-width: 200px;
+  padding: 0.6rem 1rem;
+  border: 1.5px solid #ddd;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  outline: none;
+}
+.busca:focus { border-color: #e74c3c; }
+
+.filtroRisco { display: flex; gap: 0.5rem; }
+.filtroBtn {
+  padding: 0.5rem 1rem;
+  border: 1.5px solid #ddd;
+  border-radius: 20px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+  color: #555;
+}
+.filtroBtn:hover { border-color: #999; }
+.filtroBtn.ativo { background: #1a1a2e; border-color: #1a1a2e; color: #fff; }
+
+.tabela {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  overflow: hidden;
+}
+
+table { width: 100%; border-collapse: collapse; }
+thead { background: #f8f9fa; }
+th { padding: 1rem 1.25rem; text-align: left; font-size: 0.8rem; color: #888; text-transform: uppercase; letter-spacing: 0.5px; }
+td { padding: 1rem 1.25rem; border-top: 1px solid #f0f0f0; font-size: 0.9rem; color: #333; }
+tr:hover td { background: #fafafa; }
+
+.pacienteInfo { display: flex; align-items: center; gap: 0.75rem; }
+.avatar {
+  width: 36px; height: 36px;
+  background: #1a1a2e;
+  color: #fff;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 700; font-size: 0.9rem;
+  flex-shrink: 0;
+}
+.pacienteInfo strong { display: block; font-size: 0.9rem; color: #1a1a2e; }
+.pacienteInfo span { font-size: 0.8rem; color: #888; }
+
+.riscoBadge {
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border: 1px solid;
+  text-transform: capitalize;
+}
+
+.statusBadge { padding: 3px 10px; border-radius: 12px; font-size: 0.8rem; font-weight: 600; }
+.statusBadge.ativo   { background: #d5f5e3; color: #1e8449; }
+.statusBadge.inativo { background: #f0f0f0; color: #888; }
+
+.vazio { text-align: center; padding: 3rem; color: #888; }

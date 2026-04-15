@@ -1,0 +1,100 @@
+.page { padding: 2rem; max-width: 1200px; margin: 0 auto; }
+
+.loading { text-align: center; padding: 4rem; color: #666; }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+.header h1 { margin: 0; font-size: 1.8rem; color: #1a1a2e; }
+.header p  { margin: 0.25rem 0 0; color: #666; }
+.date { color: #888; font-size: 0.9rem; }
+
+/* Métricas */
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  border-top: 4px solid;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.cardIcon { font-size: 2rem; }
+.cardInfo { display: flex; flex-direction: column; }
+.cardValor { font-size: 2rem; font-weight: 800; color: #1a1a2e; line-height: 1; }
+.cardTitulo { font-size: 0.85rem; color: #666; margin-top: 0.25rem; }
+.cardSub { font-size: 0.75rem; color: #999; }
+
+/* Grid */
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+@media (max-width: 768px) { .grid { grid-template-columns: 1fr; } }
+
+.section {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+.section h2 { margin: 0 0 1.25rem; font-size: 1.1rem; color: #1a1a2e; }
+
+/* Risco */
+.riskList { display: flex; flex-direction: column; gap: 1rem; }
+.riskItem { display: flex; align-items: center; gap: 0.75rem; }
+.riskLabel { display: flex; align-items: center; gap: 0.5rem; min-width: 160px; }
+.riskDot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+.riskName { font-size: 0.9rem; color: #333; }
+.riskQtd { font-size: 0.8rem; color: #888; margin-left: auto; }
+.riskBar { flex: 1; height: 8px; background: #f0f0f0; border-radius: 4px; overflow: hidden; }
+.riskFill { height: 100%; border-radius: 4px; transition: width 0.5s; }
+.riskPct { font-size: 0.8rem; font-weight: 600; color: #555; min-width: 35px; text-align: right; }
+
+/* Agendamentos */
+.agendList { display: flex; flex-direction: column; gap: 0.75rem; }
+.agendItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+.agendInfo { display: flex; flex-direction: column; gap: 0.2rem; }
+.agendInfo strong { font-size: 0.9rem; color: #1a1a2e; }
+.agendInfo span { font-size: 0.8rem; color: #666; }
+.agendMeta { display: flex; flex-direction: column; align-items: flex-end; gap: 0.3rem; }
+.agendData { font-size: 0.8rem; color: #888; }
+
+.badge { font-size: 0.7rem; padding: 2px 8px; border-radius: 10px; font-weight: 600; text-transform: capitalize; }
+.confirmado { background: #d5f5e3; color: #1e8449; }
+.pendente   { background: #fef9e7; color: #b7950b; }
+.cancelado  { background: #fadbd8; color: #922b21; }
+
+/* Status */
+.statusGrid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+.statusCard {
+  padding: 1rem 1.25rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.statusVal { font-size: 1.8rem; font-weight: 800; }
+.statusLabel { font-size: 0.85rem; color: #666; }
