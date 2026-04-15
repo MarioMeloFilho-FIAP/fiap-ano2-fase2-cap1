@@ -1,3 +1,19 @@
+# FIAP - Faculdade de Informática e Administração Paulista
+
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="https://github.com/agodoi/templateFiapVfinal/blob/50e1e2720637b222357a7ebd1919c38a44af7cd2/assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+</p>
+
+<br>
+
+
+## 👥 Integrantes
+
+| Nome | RM |
+|------|----|
+| Mário Melo Filho | RM563769 |
+| Stephanie Dias dos Santos | RM564315 |
+
 # CardioIA — Fase 2: Diagnóstico Automatizado
 
 > **IA no Estetoscópio Digital** — Projeto acadêmico FIAP (PBL)
@@ -174,15 +190,6 @@ Para usar o dataset real de ECG:
 ## 🎥 Vídeo de Demonstração
 
 > Link do vídeo no YouTube (não listado): _[a ser adicionado]_
-
----
-
-## 👥 Integrantes
-
-| Nome | RM |
-|------|----|
-| _[Nome completo]_ | _[RM]_ |
-| _[Nome completo]_ | _[RM]_ |
 
 ---
 
